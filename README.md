@@ -8,4 +8,4 @@ Plongez en 2075, dans un future ou les scientifiques ont fait des recherches imp
 
 Genesis est le premier épisode de la saga de jeu GammAstra Odyssey
 
-<u><sub>_***J'espère que la saga continuera mais ce jeu étant en développement, rien est certain.***_</sub></u>
+<sub><sub>***J'espère que la saga continuera mais ce jeu étant en développement, rien est certain.***</sub></sub>
